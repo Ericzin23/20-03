@@ -1,0 +1,11 @@
+Nome: Eric, M�dia: 7.0, Legenda: Aprovado ap�s exame
+Nome: Eric, M�dia: 6.5, Legenda: Aprovado ap�s exame
+Nome: Eric, M�dia: 6.833333333333334, Legenda: Aprovado ap�s exame
+Nome: Eric, M�dia: 10.0
+Nome: Eric, M�dia: 8.0, Legenda: Aprovado ap�s exame
+Nome: Eric, M�dia: 8.333333333333334, Legenda: Aprovado ap�s exame
+Nome: Eric, M�dia: 6.5, Legenda: Aprovado ap�s exame
+Nome: Eric, M�dia: 5.833333333333334, Legenda: Aprovado ap�s exame
+Nome: Eric, M�dia: 8.0, Legenda: Aprovado ap�s exame
+Nome: Eric, M�dia: 5.833333333333334, Legenda: Aprovado ap�s exame
+Nome: Eric, M�dia: 7.0, Legenda: Aprovado ap�s exame

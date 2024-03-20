@@ -1,0 +1,4 @@
+Nome: gyj
+Nota 1: 4.0
+Nota 2: 5.0
+Nota 3: 2.0

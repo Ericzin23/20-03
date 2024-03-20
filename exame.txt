@@ -1,0 +1,3 @@
+Nome: Eric, Média: 6.0
+Nome: Eric, Média: 6.666666666666667
+Nome: Eric, Média: 6.0
